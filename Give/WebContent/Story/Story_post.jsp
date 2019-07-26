@@ -11,9 +11,9 @@
 	<textarea class="tinymce"></textarea>
 	
 	<!-- javascript -->
-	<script type="text/javascript" src="Give/WebContent/js/jquery.min.js"></script>
-	<script type="text/javascript" src="Give/WebContent/plugin/tinymce/tinymce.min.js"></script>
-	<script type="text/javascript" src="Give/WebContent/plugin/tinymce/init-tinymce.js"></script>
+	<script type="text/javascript" src="../js/jquery.min.js"></script>
+	<script type="text/javascript" src="../plugin/tinymce/tinymce.min.js"></script>
+	<script type="text/javascript" src="../plugin/tinymce/init-tinymce.js"></script>
 </section>
 <aside class="aside">
 </aside>
